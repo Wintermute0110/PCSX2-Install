@@ -1,3 +1,5 @@
+**IMPORTANT** This scripts do not work yet!
+
 ## Compile and install PCSX2 on Debian/Ubuntu distributions ##
 
 A set of scripts to compile and install **PCSX2**.

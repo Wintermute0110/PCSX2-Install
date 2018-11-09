@@ -25,5 +25,4 @@ apt install \
     libwxgtk3.0-dev \
     libgl1-mesa-dev \
     libglew-dev \
-    nvidia-cg-toolkit \
     libgtk2.0-dev
